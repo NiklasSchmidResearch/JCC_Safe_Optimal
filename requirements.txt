@@ -1,0 +1,5 @@
+numpy~=2.4.2
+ImageIO~=2.37.2
+matplotlib~=3.10.8
+numba~=0.64.0
+tqdm~=4.67.3
